@@ -1,0 +1,29 @@
+{
+  "name": "node-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-Molostova/node-hw1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E-Molostova/node-hw1/issues"
+  },
+  "homepage": "https://github.com/E-Molostova/node-hw1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "shortid": "^2.2.16",
+    "yargs": "^17.3.0"
+  }
+}
